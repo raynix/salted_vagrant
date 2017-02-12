@@ -2,8 +2,9 @@
 Test provisioning Vagrant VMs with Salt. Using https://github.com/UtahDave/salt-vagrant-demo as boilerplates.
 
 ## Preferred Environment
-1, Ubuntu Desktop 16.04 x64
-2, VirtualBox 5.0.32
+- Quad core or better, 16GB or more memory(otherwise you will need to shrink the VMs)
+- Ubuntu Desktop 16.04 x64 
+- VirtualBox 5.0.32
 
 ## Instructions
 
